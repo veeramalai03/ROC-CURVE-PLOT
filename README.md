@@ -24,6 +24,8 @@ On the other hand, if our classifier is predicting whether someone has a termina
 4. Fit the Logistic Regression Model
 5. Model Diagnostics
 
+
+
 ## Program:
 ```
 /*
